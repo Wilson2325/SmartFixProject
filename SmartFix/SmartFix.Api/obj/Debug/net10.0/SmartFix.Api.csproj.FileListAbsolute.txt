@@ -1,0 +1,8 @@
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\SmartFix.Api.csproj.AssemblyReference.cache
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\SmartFix.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\SmartFix.Api.AssemblyInfoInputs.cache
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\SmartFix.Api.AssemblyInfo.cs
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\SmartFix.Api.csproj.CoreCompileInputs.cache
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\SmartFix.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Final Year Project\SmartFix\SmartFix.Api\obj\Debug\net10.0\SmartFix.Api.MvcApplicationPartsAssemblyInfo.cache

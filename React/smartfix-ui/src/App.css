@@ -1,0 +1,7 @@
+/* App-specific generic styles */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  animation: fadeIn 0.8s ease-in-out;
+}

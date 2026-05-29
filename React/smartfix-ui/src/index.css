@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Dynamic Light Theme Colors */
+  --primary-color: #2563eb;      /* Vibrant Blue */
+  --primary-glow: rgba(37, 99, 235, 0.15);
+  --secondary-color: #64748b;    /* Slate-500 */
+  --bg-dark: #e2e8f0;            /* Much more distinct blue-gray */
+  --bg-gradient: linear-gradient(135deg, #e2e8f0 0%, #cbd5e1 100%);
+  
+  /* Modern UI Tokens */
+  --glass-bg: rgba(255, 255, 255, 0.8);
+  --glass-border: #e2e8f0;
+  --glass-highlight: #f1f5f9;
+  --glass-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  
+  /* Status Colors */
+  --success-color: #10b981;
+  --success-glow: rgba(16, 185, 129, 0.1);
+  --warning-color: #f59e0b;
+  --warning-glow: rgba(245, 158, 11, 0.1);
+  --danger-color: #ef4444;
+  --danger-glow: rgba(239, 68, 68, 0.1);
+  
+  /* Text */
+  --text-main: #0f172a;          /* Slate-900 */
+  --text-muted: #64748b;         /* Slate-500 */
+  
+  /* Radii */
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', 'Outfit', system-ui, sans-serif;
+  background: var(--bg-dark);
+  color: var(--text-main);
+  background-image: var(--bg-gradient);
+  background-attachment: fixed;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+  color: var(--text-main);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+  background: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+input, textarea, select {
+  font-family: inherit;
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  padding: 0.75rem 1rem;
+  background: rgba(15, 23, 42, 0.6);
+  color: var(--text-main);
+  outline: none;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(4px);
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 15px var(--primary-glow);
+  background: rgba(30, 41, 59, 0.8);
+}
+
+input::placeholder, textarea::placeholder {
+  color: #64748b;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+  transition: color 0.2s;
+}
+
+a:hover {
+  text-shadow: 0 0 8px var(--primary-glow);
+}
+
+/* Base Glass Card */
+.card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--glass-shadow);
+  padding: 1.5rem;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
+              box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+              border-color 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+  border-color: var(--glass-highlight);
+}
+
+/* Primary Button with Glow */
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary-color), #2563eb);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-md);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  box-shadow: 0 4px 15px var(--primary-glow);
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-primary::after {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%;
+  width: 50%; height: 100%;
+  background: linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent);
+  transform: skewX(-20deg);
+  animation: shine 3s infinite;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 6px 20px rgba(59, 130, 246, 0.6);
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.85rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.badge-orange { background: rgba(245, 158, 11, 0.2); color: #fcd34d; border-color: var(--warning-glow); box-shadow: 0 0 10px var(--warning-glow); }
+.badge-blue { background: rgba(59, 130, 246, 0.2); color: #93c5fd; border-color: var(--primary-glow); box-shadow: 0 0 10px var(--primary-glow); }
+.badge-green { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border-color: var(--success-glow); box-shadow: 0 0 10px var(--success-glow); }
+.badge-red { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border-color: var(--danger-glow); box-shadow: 0 0 10px var(--danger-glow); animation: pulse-red 2s infinite; }
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+
+/* --- Global Keyframes --- */
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes shine {
+  0% { left: -100%; }
+  20% { left: 200%; }
+  100% { left: 200%; }
+}
+
+@keyframes pulse-red {
+  0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); }
+  70% { box-shadow: 0 0 0 6px rgba(239, 68, 68, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+}
+
+/* Staggered Animations */
+.animate-slide-up {
+  opacity: 0;
+  animation: slideUp 0.6s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+}
+
+.stagger-1 { animation-delay: 0.1s; }
+.stagger-2 { animation-delay: 0.2s; }
+.stagger-3 { animation-delay: 0.3s; }
+.stagger-4 { animation-delay: 0.4s; }
+.stagger-5 { animation-delay: 0.5s; }
+.stagger-6 { animation-delay: 0.6s; }
+.stagger-7 { animation-delay: 0.7s; }
+.stagger-8 { animation-delay: 0.8s; }
+.stagger-9 { animation-delay: 0.9s; }
+.stagger-10 { animation-delay: 1.0s; }

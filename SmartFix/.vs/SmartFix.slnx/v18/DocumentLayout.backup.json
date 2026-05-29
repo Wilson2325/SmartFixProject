@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Final Year Project\\SmartFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\services\\departmentclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\services\\departmentclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\models\\complaintlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\models\\complaintlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\helpers\\complaintstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\helpers\\complaintstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|e:\\final year project\\smartfix\\smartfix.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAD4C35-A618-DA65-5B3D-6DD52D85FA68}|SmartFix.Api\\SmartFix.Api.csproj|solutionrelative:smartfix.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Models\\User.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\User.cs",
+              "RelativeToolTip": "SmartFix.Api\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:55:52.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Services\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Services\\AssignmentService.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Services\\AssignmentService.cs",
+              "RelativeToolTip": "SmartFix.Api\\Services\\AssignmentService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:56:15.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentClassifier.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Services\\DepartmentClassifier.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Services\\DepartmentClassifier.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Services\\DepartmentClassifier.cs",
+              "RelativeToolTip": "SmartFix.Api\\Services\\DepartmentClassifier.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:56:06.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Services\\EmailService.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Services\\EmailService.cs",
+              "RelativeToolTip": "SmartFix.Api\\Services\\EmailService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:30:24.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartFix.Api\\appsettings.json",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\appsettings.json",
+              "RelativeToolTip": "SmartFix.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T19:55:09.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Program.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Program.cs",
+              "RelativeToolTip": "SmartFix.Api\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwF8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:55:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Technician.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Technician.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Models\\Technician.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Technician.cs",
+              "RelativeToolTip": "SmartFix.Api\\Models\\Technician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:54:50.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtpVerification.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\OtpVerification.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Models\\OtpVerification.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\OtpVerification.cs",
+              "RelativeToolTip": "SmartFix.Api\\Models\\OtpVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:05:34.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Models\\Notification.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Notification.cs",
+              "RelativeToolTip": "SmartFix.Api\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:00:55.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Models\\Department.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Department.cs",
+              "RelativeToolTip": "SmartFix.Api\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:54:33.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComplaintLog.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\ComplaintLog.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Models\\ComplaintLog.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\ComplaintLog.cs",
+              "RelativeToolTip": "SmartFix.Api\\Models\\ComplaintLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:55:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Complaint.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Models\\Complaint.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Models\\Complaint.cs",
+              "RelativeToolTip": "SmartFix.Api\\Models\\Complaint.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:30:44.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComplaintStatuses.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Helpers\\ComplaintStatuses.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Helpers\\ComplaintStatuses.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Helpers\\ComplaintStatuses.cs",
+              "RelativeToolTip": "SmartFix.Api\\Helpers\\ComplaintStatuses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:57:24.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SmartFix.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:55:38.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SmartFix.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:00:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Controllers\\NotificationsController.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "SmartFix.Api\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:03:21.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SmartFix.Api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:01:17.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComplaintsController.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\ComplaintsController.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Controllers\\ComplaintsController.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\ComplaintsController.cs",
+              "RelativeToolTip": "SmartFix.Api\\Controllers\\ComplaintsController.cs",
+              "ViewState": "AgIAALYBAAAAAAAAAAAAwNEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:56:38.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartFix.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Final Year Project\\SmartFix\\SmartFix.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartFix.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAuwIMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:56:27.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
